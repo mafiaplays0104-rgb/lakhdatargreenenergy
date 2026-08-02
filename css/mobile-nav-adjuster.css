@@ -1,0 +1,135 @@
+/* Mobile Navbar Custom & Responsive Nav Styles */
+
+/* Custom Mobile Nav Styling */
+@media screen and (max-width: 991px) {
+  .navbar-button-wrapper {
+    display: none !important;
+  }
+
+  .navbar {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    position: relative;
+    z-index: 1000;
+    overflow: visible !important;
+  }
+
+  .navbar-logo-image {
+    max-height: 40px !important;
+    transform: translate(14px, 0px) !important;
+    transition: transform 0.05s ease, max-height 0.05s ease;
+  }
+
+  .menu-button {
+    width: 39px !important;
+    height: 39px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
+    cursor: pointer;
+  }
+
+  /* Position mobile menu overlay below the navbar when Webflow overlay is not active */
+  .navbar-wrapper > .nav-menu-wrapper {
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    background-color: #f4f3ea !important; /* Brand Menu Card Background */
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.03) !important; /* Shadow soft */
+    border-top: 1px solid rgba(0, 0, 0, 0.05) !important; /* Border glass */
+    padding: 15px 20px !important;
+    z-index: 9999 !important;
+    box-sizing: border-box !important;
+  }
+
+  /* When inside Webflow's native absolute overlay, keep relative positioning so it fits inside the overflow-hidden overlay container */
+  .w-nav-overlay .nav-menu-wrapper {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    background-color: #f4f3ea !important; /* Brand Menu Card Background */
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.03) !important; /* Shadow soft */
+    border-top: 1px solid rgba(0, 0, 0, 0.05) !important; /* Border glass */
+    padding: 15px 20px !important;
+    z-index: 9999 !important;
+    box-sizing: border-box !important;
+    display: block !important; /* Ensure it is visible inside the active overlay */
+  }
+
+  .w-nav-overlay {
+    z-index: 9999 !important;
+  }
+
+  .nav-link {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 14px 10px !important;
+    margin: 0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04) !important;
+    box-sizing: border-box !important;
+    font-family: "Inter Tight", sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    color: #1f1f1f !important; /* --title-color */
+    border-radius: 6px !important;
+    transition: background-color 0.15s ease, color 0.15s ease !important;
+  }
+
+  .nav-link:last-child {
+    border-bottom: none !important;
+  }
+
+  .nav-link:hover, .nav-link.w--current {
+    color: #659d00 !important; /* Green accent for links */
+    background-color: rgba(101, 157, 0, 0.05) !important; /* light green tint bg */
+  }
+}
+
+/* Guaranteed Hamburger Icon Fallback */
+.menu-button .mb-fallback-hamburger {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 22px;
+  height: 16px;
+  cursor: pointer;
+  margin: auto;
+}
+
+.menu-button .mb-fallback-hamburger span {
+  display: block;
+  width: 100%;
+  height: 2.5px;
+  background-color: #111827;
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+/* Open state cross animation for fallback hamburger */
+.menu-button.w--open .mb-fallback-hamburger span:nth-child(1) {
+  transform: translateY(6.75px) rotate(45deg);
+}
+.menu-button.w--open .mb-fallback-hamburger span:nth-child(2) {
+  opacity: 0;
+}
+.menu-button.w--open .mb-fallback-hamburger span:nth-child(3) {
+  transform: translateY(-6.75px) rotate(-45deg);
+}
+
+/* Hide fallback hamburger if default Webflow hamburger icon is present and successfully rendered an SVG, or if native icon class is present */
+.menu-button:has(.hamburger-menu-icon svg) .mb-fallback-hamburger,
+.menu-button:has(.w-icon-nav-menu) .mb-fallback-hamburger,
+.menu-button .hamburger-menu-icon svg ~ .mb-fallback-hamburger,
+.menu-button .w-icon-nav-menu ~ .mb-fallback-hamburger {
+  display: none !important;
+}
