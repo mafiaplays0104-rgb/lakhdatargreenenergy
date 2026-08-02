@@ -1,0 +1,17 @@
+# Lakhdatar Green Energy
+> Premium industrial biomass pellet manufacturer based in Tilda, Chhattisgarh, India. High-GCV (3,800–4,200+ kcal/kg) eco-friendly bio-fuel replacing coal in industrial boilers.
+
+## Core Pages
+- [Homepage](https://lakhdatargreenenergy.com/): Company overview, biomass pellet features, and industrial boiler conversion metrics.
+- [About Us](https://lakhdatargreenenergy.com/about.html): Manufacturing process, quality standards, and farmer-sourcing network in Chhattisgarh.
+- [Services & Products](https://lakhdatargreenenergy.com/products&services.html): High-GCV Sawdust Pellets, Mustard Husk Pellets, and Agro-Residue Bio-Pellets.
+- [Contact Us](https://lakhdatargreenenergy.com/contact.html): Bulk purchasing, boiler consulting, and quote requests.
+- [Resources Hub](https://lakhdatargreenenergy.com/resources/index.html): Technical guides, ROI calculators, case studies, and FAQs.
+
+## Key Performance Indicators & Specifications
+- Gross Calorific Value (GCV): 3,800 – 4,200+ kcal/kg
+- Ash Content: < 10%
+- Moisture Content: < 10%
+- Coal Displacement: Up to 97% reduction in coal dependency
+- Scale: 20,000+ metric tonnes delivered across 80+ industrial boiler installations
+- Sourcing: 100% farmer-sourced agricultural residue (combating field stubble burning)

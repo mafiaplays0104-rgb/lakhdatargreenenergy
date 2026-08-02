@@ -1,0 +1,39 @@
+# robots.txt for https://lakhdatargreenenergy.com
+
+User-agent: *
+Allow: /
+
+# AI Search Crawlers — ALLOW for search visibility & citations
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# AI Training Crawlers — BLOCK training scrapers
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+# Sitemap Location
+Sitemap: https://lakhdatargreenenergy.com/sitemap.xml
