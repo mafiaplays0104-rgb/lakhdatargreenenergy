@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 585.12 194">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .03em;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        letter-spacing: .23em;
+      }
+
+      .cls-4 {
+        letter-spacing: .05em;
+      }
+
+      .cls-5 {
+        letter-spacing: .21em;
+      }
+
+      .cls-6 {
+        letter-spacing: .05em;
+      }
+
+      .cls-7 {
+        letter-spacing: .04em;
+      }
+
+      .cls-8 {
+        letter-spacing: .22em;
+      }
+
+      .cls-9 {
+        font-family: TTBluescreensTrial-Bd, 'TT Bluescreens Trial';
+        font-size: 71.57px;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #187d4a;
+      }
+
+      .cls-11 {
+        fill: #157d4a;
+      }
+
+      .cls-10 {
+        font-family: TTBluescreensTrial-XBd, 'TT Bluescreens Trial';
+        font-size: 129.32px;
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-20.02" y1="61.86" x2="54.79" y2="134.1" gradientUnits="userSpaceOnUse">
+      <stop offset="1" stop-color="#157d4a"/>
+      <stop offset="1" stop-color="#15673c"/>
+      <stop offset="1" stop-color="#15301a"/>
+      <stop offset="1" stop-color="#162b17"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="10.24" y1="156.58" x2="110.05" y2="156.58" xlink:href="#linear-gradient"/>
+  </defs>
+  <path class="cls-12" d="M35.7,17.68c-.1.02-.2.04-.3.06-.35.1-.71.2-1.09.28C21.37,22.17,9.43,30.26,0,41.38v137.95c.09-.13.16-.27.25-.41l.02-.07c.07-.08.16-.17.23-.25.4-.53.83-1.04,1.32-1.5,6.43-7.14,17.74-14.74,32.23-21.53l1.77-80.4V17.66s-.09.01-.13.02Z"/>
+  <path class="cls-2" d="M10.24,179.33c14.22-9.92,32.56-20.89,55.05-30.44,16.24-6.89,31.42-11.68,44.76-15.05-.31,3.22-2.4,21.89-16.99,33.92-9.55,7.87-21.29,10.3-22.85,10.6-2.21.43-4.09.65-5.44.77-18.18.07-36.35.13-54.53.2Z"/>
+  <path class="cls-11" d="M46.4,141.25c2.42-4.52,6.11-10.31,11.64-16.17,6.4-6.77,12.92-11.16,17.76-13.89-4.56,3.62-10.23,8.84-15.66,16.01-5.94,7.84-9.6,15.36-11.87,21.07-2.4,1.2-4.81,2.4-7.21,3.59.19-12.69.37-25.39.56-38.08,1.52-6.58,4.76-15.99,12.57-23.8,6.18-6.18,12.24-8.37,21.18-12.58,8.39-3.94,20.37-10.16,34.47-19.6,2.37,16.18,1.32,29.17,0,37.74-1.99,12.91-4.94,17.96-6.32,20.09-1.11,1.71-4.95,7.35-19.49,16.06-6.52,3.91-15.99,8.91-28.26,13.22,2.8-2.55,6.79-6.23,11.49-10.77,7.23-6.99,10.84-10.48,12.96-13.4,3.17-4.35,7.43-12.37,7.46-26.03-2.01,1.53-5.08,3.7-9.04,5.94-9.38,5.29-12.02,4.27-17.81,8.11-1.78,1.18-9.93,6.85-13.34,17.53-2,6.26-1.58,11.78-1.09,14.94Z"/>
+  <text class="cls-10" transform="translate(130.35 109.92)"><tspan class="cls-6" x="0" y="0">LAKH</tspan><tspan class="cls-7" x="207.04" y="0">D</tspan><tspan class="cls-1" x="260.97" y="0">AT</tspan><tspan class="cls-4" x="354.6" y="0">AR</tspan></text>
+  <text class="cls-9" transform="translate(130.18 179.33)"><tspan class="cls-3" x="0" y="0">GREEN ENER</tspan><tspan class="cls-8" x="387.91" y="0">G</tspan><tspan class="cls-5" x="429.21" y="0">Y</tspan></text>
+</svg>
