@@ -1,0 +1,83 @@
+# Lakhdatar Green Energy — Complete Technical & Organizational Documentation
+
+## 1. Executive Summary
+Lakhdatar Green Energy is an Indian industrial biomass pellet manufacturing enterprise established in 2010. The company operates high-capacity pelletizing infrastructure in the Industrial Area of Tilda, Raipur District, Chhattisgarh (21.5270° N, 81.7787° E). Lakhdatar specializes in manufacturing dense, high-Gross Calorific Value (GCV) biomass pellets derived from 100% sustainably aggregated agricultural residues (primarily mustard straw/husk, saw dust, and paddy straw). 
+
+The pellets serve as a direct, carbon-neutral drop-in fuel for industrial steam boilers, thermic fluid heaters, and pulverized coal-fired thermal power plants looking to satisfy government co-firing mandates (MoP SAMARTH initiative and CAQM Delhi-NCR regulations).
+
+## 2. Contact & Corporate Metadata
+- **Company Legal Name**: Lakhdatar Green Energy
+- **Founding Year**: 2010
+- **Founder & Managing Director**: Sahil Nihichalani
+- **Head Office & Factory**: Industrial Area, Tilda, District Raipur, Chhattisgarh — 493114, India
+- **Sales Inquiries**: sales@lakhdatargreenenergy.com | +91 74770 76500 | +91 88188 86500
+- **General Inquiries**: info@lakhdatargreenenergy.com
+- **Official Website**: https://lakhdatargreenenergy.com
+
+## 3. Product Specifications & Fuel Comparison
+### 3.1 Lakhdatar High-GCV Biomass Pellets Technical Data
+- **Gross Calorific Value (GCV)**: 3,800 kcal/kg to 4,200+ kcal/kg (Gross as Received / Air Dried Basis)
+- **Total Moisture**: <= 8% to 10% (by mass)
+- **Ash Content**: <= 6% to 10% (dry basis)
+- **Volatile Matter**: 65% to 75%
+- **Fixed Carbon**: 16% to 22%
+- **Bulk Density**: >= 650 kg/m³ to 720 kg/m³
+- **Pellet Diameter**: 6 mm to 8 mm (+/- 1mm)
+- **Pellet Length**: 10 mm to 35 mm
+- **Fines Content**: <= 1.5% at dispatch
+- **Sulphur (S)**: < 0.1% (virtually zero SOx emissions)
+- **Chlorine (Cl)**: < 0.05% (prevents high-temperature superheater tube corrosion)
+
+### 3.2 Biomass Pellets vs. Industrial Coal
+| Parameter | High-GCV Biomass Pellets | Indian Grade E/F Coal | Imported Steam Coal |
+| :--- | :--- | :--- | :--- |
+| **GCV (kcal/kg)** | 3,800 – 4,200 | 3,100 – 3,600 | 4,200 – 5,000 |
+| **Ash Content** | 6 – 10% | 35 – 45% | 8 – 15% |
+| **Moisture Content**| < 10% | 12 – 18% | 10 – 16% |
+| **Sulphur Content** | < 0.1% | 0.5 – 1.2% | 0.6 – 1.0% |
+| **Net Carbon Status**| 100% Carbon Neutral (Scope 1 Reduction) | High Net Carbon Emitter | High Net Carbon Emitter |
+| **Boiler Ash Handling**| Reduced by ~75% vs Coal | Heavy Clinkering/Slagging | Moderate Ash |
+
+## 4. Production Process (From Field to Furnace)
+1. **Agri-Residue Aggregation**: Sourced directly from local farmers in Chhattisgarh and Central India, providing farmers with supplemental revenue and stopping open-field crop residue burning.
+2. **Drying & Moisture Normalization**: Raw biomass is dried through rotary industrial dryers down to an optimal moisture level below 10%.
+3. **Milling & Size Reduction**: Hammer mills pulverize the raw fiber to uniform 2–3mm particle size.
+4. **High-Pressure Extrusion & Densification**: Ring-die pellet mills compress the biomass under extreme pressure and natural lignin thermal activation (without synthetic binders) to achieve >650 kg/m³ bulk density.
+5. **Cooling & Dedusting**: Counterflow coolers stabilize the pellets; screening trommels remove fines.
+6. **Laboratory Testing & Quality Verification**: Every production batch is certified for GCV, moisture, and ash content in our dedicated quality lab prior to dispatch.
+
+## 5. Regulatory Compliance & Environmental Mandates
+- **Ministry of Power (MoP) SAMARTH Mission**: Mandates 5% to 7% biomass co-firing in all coal-based thermal power plants across India.
+- **Commission for Air Quality Management (CAQM)**: Bans unapproved fossil fuels (petcoke, furnace oil, non-compliant coal) in Delhi-NCR and promotes 100% bio-fuel transition in industrial heating applications.
+- **Scope 1 Emission Reductions**: Biomass combustion carbon is part of the short-term biogenic carbon cycle (photosynthesis absorption cycle), resulting in net zero Scope 1 emissions under GHG Protocol.
+
+## 6. Full Site URL Architecture
+- Homepage: https://lakhdatargreenenergy.com/
+- About Us: https://lakhdatargreenenergy.com/about.html
+- Products & Services: https://lakhdatargreenenergy.com/products&services.html
+- Contact Us: https://lakhdatargreenenergy.com/contact.html
+- Resources Hub: https://lakhdatargreenenergy.com/resources/index.html
+- Blog Hub: https://lakhdatargreenenergy.com/resources/blog/index.html
+- Blog - Financial Impact of Co-Firing: https://lakhdatargreenenergy.com/resources/blog/financial-impact-of-co-firing.html
+- Blog - Future of Industrial Biomass Fuel: https://lakhdatargreenenergy.com/resources/blog/future-of-industrial-biomass-fuel.html
+- Blog - Tilda Facility Expansion: https://lakhdatargreenenergy.com/resources/blog/lakhdatar-expands-tilda-facility.html
+- Blog - Scope 1 Emission Reductions & Carbon Credits: https://lakhdatargreenenergy.com/resources/blog/scope-1-emission-reductions-carbon-credits.html
+- Case Studies Hub: https://lakhdatargreenenergy.com/resources/case-studies/index.html
+- Case Study - Bulk Storage & Handling Guide: https://lakhdatargreenenergy.com/resources/case-studies/biomass-pellet-bulk-storage-handling-guide.html
+- Case Study - Boiler Conversion Handbook: https://lakhdatargreenenergy.com/resources/case-studies/industrial-boiler-conversion-handbook.html
+- Knowledge Center Hub: https://lakhdatargreenenergy.com/resources/knowledge-center/index.html
+- Knowledge Center - Biomass Composition & Testing: https://lakhdatargreenenergy.com/resources/knowledge-center/biomass-pellet-composition-testing-protocols.html
+- Knowledge Center - Carbon Neutrality of Biomass vs Coal: https://lakhdatargreenenergy.com/resources/knowledge-center/carbon-neutrality-of-biomass-vs-coal.html
+- Knowledge Center - High GCV Pellets Guide: https://lakhdatargreenenergy.com/resources/knowledge-center/high-gcv-biomass-pellets-guide.html
+- Knowledge Center - Indian Fuel Quality Standards: https://lakhdatargreenenergy.com/resources/knowledge-center/navigating-indian-biomass-fuel-quality-procurement-standards.html
+- Whitepapers Hub: https://lakhdatargreenenergy.com/resources/whitepapers/index.html
+- Whitepaper - Biomass Economics & LCOE Transition: https://lakhdatargreenenergy.com/resources/whitepapers/biomass-economics-lcoe-coal-to-pellet-transition.html
+- Whitepaper - Decarbonizing Industrial Heat 2026: https://lakhdatargreenenergy.com/resources/whitepapers/decarbonizing-industrial-heat-2026.html
+- Whitepaper - CAQM & MoP Mandates: https://lakhdatargreenenergy.com/resources/whitepapers/navigating-caqm-mop-biomass-mandates.html
+- Tools Hub & ROI Calculators: https://lakhdatargreenenergy.com/resources/tools/index.html
+- FAQs Hub: https://lakhdatargreenenergy.com/resources/faqs/index.html
+- General FAQs: https://lakhdatargreenenergy.com/resources/faqs/general.html
+- Manufacturing FAQs: https://lakhdatargreenenergy.com/resources/faqs/manufacturing.html
+- Products FAQs: https://lakhdatargreenenergy.com/resources/faqs/products.html
+- Shipping FAQs: https://lakhdatargreenenergy.com/resources/faqs/shipping.html
+- Export FAQs: https://lakhdatargreenenergy.com/resources/faqs/export.html

@@ -1,0 +1,52 @@
+# Lakhdatar Green Energy
+> Leading industrial biomass pellet manufacturer in India producing high-GCV (3,800–4,200+ kcal/kg) biomass pellets engineered for coal replacement and thermal power plant co-firing compliance. Based in Tilda, Chhattisgarh, India.
+
+## Company Overview
+- **Legal Name**: Lakhdatar Green Energy
+- **Headquarters & Manufacturing Plant**: Industrial Area, Tilda, District Raipur, Chhattisgarh 493114, India
+- **Coordinates**: Latitude 21.5270° N, Longitude 81.7787° E
+- **Founding Year**: 2010
+- **Founder & Managing Director**: Sahil Nihichalani
+- **Contact Numbers**: +91 74770 76500 / +91 88188 86500
+- **Email**: sales@lakhdatargreenenergy.com / info@lakhdatargreenenergy.com
+- **Website**: https://lakhdatargreenenergy.com
+
+## Key Specifications & Performance Metrics
+- **Gross Calorific Value (GCV)**: 3,800 – 4,200+ kcal/kg
+- **Ash Content**: < 10% (minimal boiler slagging and clinker formation)
+- **Moisture Content**: < 10% (optimum combustion efficiency)
+- **Pellet Diameter**: 6mm to 8mm
+- **Bulk Density**: > 650 kg/m³
+- **Coal Displacement Capability**: Up to 97% direct coal replacement in adapted boilers; 5–10% seamless co-firing in pulverized coal thermal plants without equipment modifications
+- **Track Record**: 20,000+ metric tonnes delivered across 80+ industrial boiler installations
+- **Raw Material**: 100% surplus agricultural residue (mustard stalk, paddy straw, sawdust, agro-waste) directly aggregated from Central Indian farming communities
+
+## Core Pages
+- [Homepage](https://lakhdatargreenenergy.com/): Overview of biomass pellet solutions, industrial boiler co-firing economics, and sustainability metrics.
+- [About Us](https://lakhdatargreenenergy.com/about.html): Manufacturing facility, 5-stage quality process, laboratory verification, and company history.
+- [Products & Services](https://lakhdatargreenenergy.com/products&services.html): High-GCV Mustard Husk Pellets, Sawdust Pellets, Agro-Residue Pellets, and Boiler Conversion Consulting.
+- [Contact Us](https://lakhdatargreenenergy.com/contact.html): Direct sales, tender quotes, sample requests, and technical consultation.
+- [Resources Hub](https://lakhdatargreenenergy.com/resources/index.html): Central index of articles, calculators, research whitepapers, and FAQs.
+
+## Technical Knowledge Center & Whitepapers
+- [Understanding High-GCV Biomass Pellets](https://lakhdatargreenenergy.com/resources/knowledge-center/high-gcv-biomass-pellets-guide.html): Guide to calorific values, combustion chemistry, and bulk density.
+- [Biomass Pellet Composition & Laboratory Testing](https://lakhdatargreenenergy.com/resources/knowledge-center/biomass-pellet-composition-testing-protocols.html): Laboratory protocols for testing GCV, proximate/ultimate analysis, and ash fusion temperatures.
+- [Carbon Neutrality of Biomass vs Coal](https://lakhdatargreenenergy.com/resources/knowledge-center/carbon-neutrality-of-biomass-vs-coal.html): Scope 1 emission mathematics and lifecycle carbon analysis.
+- [Indian Biomass Fuel Standards (BIS/CEA/MoP)](https://lakhdatargreenenergy.com/resources/knowledge-center/navigating-indian-biomass-fuel-quality-procurement-standards.html): Procurement standards for Indian thermal power utilities and compliance mandates.
+- [Biomass Economics & LCOE Transition](https://lakhdatargreenenergy.com/resources/whitepapers/biomass-economics-lcoe-coal-to-pellet-transition.html): Detailed economic models of fuel cost savings and levelized cost of energy.
+- [Decarbonizing Industrial Heat 2026 Outlook](https://lakhdatargreenenergy.com/resources/whitepapers/decarbonizing-industrial-heat-2026.html): Roadmap for industrial thermal decarbonization.
+- [Navigating CAQM & MoP Biomass Mandates](https://lakhdatargreenenergy.com/resources/whitepapers/navigating-caqm-mop-biomass-mandates.html): Legal compliance under Commission for Air Quality Management and Ministry of Power SAMARTH scheme.
+
+## Case Studies & Practical Guides
+- [Industrial Boiler Conversion Handbook](https://lakhdatargreenenergy.com/resources/case-studies/industrial-boiler-conversion-handbook.html): Step-by-step engineering handbook for converting coal boilers to biomass pellets.
+- [Biomass Pellet Bulk Storage & Handling Guide](https://lakhdatargreenenergy.com/resources/case-studies/biomass-pellet-bulk-storage-handling-guide.html): Best practices for moisture control, silo storage, pneumatic conveying, and dust management.
+
+## Interactive Tools
+- [Biomass Energy Calculators & ROI Tools](https://lakhdatargreenenergy.com/resources/tools/index.html): Interactive calculators for fuel consumption estimation, coal-to-pellet substitution ratio, annual cost savings, and CO2 emission reduction.
+
+## Frequently Asked Questions
+- [General Biomass FAQs](https://lakhdatargreenenergy.com/resources/faqs/general.html)
+- [Manufacturing & Quality FAQs](https://lakhdatargreenenergy.com/resources/faqs/manufacturing.html)
+- [Product Specifications FAQs](https://lakhdatargreenenergy.com/resources/faqs/products.html)
+- [Shipping & Logistics FAQs](https://lakhdatargreenenergy.com/resources/faqs/shipping.html)
+- [International Export FAQs](https://lakhdatargreenenergy.com/resources/faqs/export.html)
